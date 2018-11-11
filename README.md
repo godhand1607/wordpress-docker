@@ -17,3 +17,8 @@ Wordpress development workflow using Docker.
     - PASSWORD: **wordpress**
 
 **Note: Check the `docker-compose.yml` file on how this is handled in Docker**
+
+## References
+- https://hub.docker.com/_/wordpress/
+- https://davidyeiser.com/tutorial/docker-wordpress-theme-setup
+- https://buddy.works/guides/wordpress-docker-kubernetes-part-1
