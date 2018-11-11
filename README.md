@@ -20,5 +20,7 @@ Wordpress development workflow using Docker.
 
 ## References
 - https://hub.docker.com/_/wordpress/
+- https://docs.docker.com/samples/library/wordpress/
 - https://davidyeiser.com/tutorial/docker-wordpress-theme-setup
 - https://buddy.works/guides/wordpress-docker-kubernetes-part-1
+- https://ghost.kontena.io/running-your-wordpress-site-in-containers/
