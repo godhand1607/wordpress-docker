@@ -11,9 +11,9 @@ Wordpress development workflow using Docker.
 
 ## Connecting to the database
 - Using your favorite MySQL client, setup a connection with the ff details:
-    - HOST: localhost
-    - PORT: 3306
-    - USERNAME: dockerwp_user
-    - PASSWORD: wordpress
+    - HOST: **localhost**
+    - PORT: **3306**
+    - USERNAME: **dockerwp_user**
+    - PASSWORD: **wordpress**
 
 **Note: Check the `docker-compose.yml` file on how this is handled in Docker**
